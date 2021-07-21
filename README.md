@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C, C++, Java, Html, Database Management System
 - 💞️ I’m looking to collaborate on any projects using the above codes, topics
 - 📫 How to reach me 
-LinkedIn: https://www.linkedin.com/in/prathik-matthai-ab5134213
+LinkedIn: https://www.linkedin.com/in/prathik-matthai-ab5134213, 
 Gmail: prathikmatthai@gmail.com 
 
 <!---
